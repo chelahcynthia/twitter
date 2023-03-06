@@ -36,6 +36,8 @@ gem 'devise', '~> 4.9'
 
 gem 'simple_form', '~> 5.2'
 
+gem 'sass-rails', '>= 5'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
