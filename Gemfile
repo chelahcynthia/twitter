@@ -38,6 +38,13 @@ gem 'simple_form', '~> 5.2'
 
 gem 'sass-rails', '>= 5'
 
+gem 'bulma-rails', '~> 0.9.4'
+
+# gem 'rails', '7.0.3.1'
+# gem 'webrick'
+# gem 'sprockets-rails', '~> 3.4', '>= 3.4.2'
+# gem 'dartsass-rails', '~> 0.4.0'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
