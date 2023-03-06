@@ -30,6 +30,8 @@ gem 'better_errors', '~> 2.9', '>= 2.9.1'
 gem 'guard', '~> 2.18'
 gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 gem 'gravatar_image_tag', '~> 1.2'
+
+# Devise for authorisation
 gem 'devise', '~> 4.9'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
@@ -39,6 +41,8 @@ gem 'simple_form', '~> 5.2'
 gem 'sass-rails', '>= 5'
 
 gem 'bulma-rails', '~> 0.9.4'
+
+
 
 # gem 'rails', '7.0.3.1'
 # gem 'webrick'
